@@ -7,4 +7,4 @@ A MongoDB Halloween 2017 skunkworks project.
 ## Usage
 
 * `pip install -r requirements.txt`
-* `gunicorn app:app`
+* `gunicorn app:app --reload`
